@@ -7,8 +7,10 @@ public class MonoPackageManager_Resources {
 		"EngineIoClientDotNet.dll",
 		"FormsViewGroup.dll",
 		"Lottie.Forms.dll",
+		"Newtonsoft.Json.dll",
 		"SocketIoClientDotNet.dll",
 		"SuperSocket.ClientEngine.dll",
+		"System.Collections.Immutable.dll",
 		"UXDivers.Effects.dll",
 		"UXDivers.Effects.Droid.dll",
 		"UXDivers.Gorilla.SDK.dll",
@@ -56,8 +58,6 @@ public class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
-		"System.Collections.Immutable.dll",
-		"Newtonsoft.Json.dll",
 	};
 	public static String[] Dependencies = new String[]{
 	};

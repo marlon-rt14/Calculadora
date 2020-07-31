@@ -1,4 +1,6 @@
 FormsViewGroup
+UXDivers.Effects.Droid
+UXDivers.Gorilla.SDK.Droid
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Core.Runtime
 Xamarin.Android.Arch.Lifecycle.Common
@@ -39,9 +41,3 @@ Xamarin.Android.Support.ViewPager
 Xamarin.Essentials
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
-UXDivers.Effects.Droid
-UXDivers.Gorilla.SDK.Droid
-Lottie.Android
-Lottie.Forms
-Xamarin.Android.Support.v7.MediaRouter
-Xamarin.Android.Support.v7.Palette

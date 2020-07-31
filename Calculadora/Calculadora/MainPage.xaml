@@ -8,9 +8,27 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
+        <Label 
+            Text="MI NOMBRE ES MARLON JAVIER RUIZ TARUCHAÍN"
+            FontSize="Large"
+            FontAttributes="Bold"
+            VerticalOptions="StartAndExpand"
+            HorizontalTextAlignment="Center" />
+        <Button Text="Contar"
+                Font="Large"
+                BorderWidth="1"
+                HorizontalOptions="CenterAndExpand"
+                VerticalOptions="Start"
+                Clicked="OnButtonClicked"/>
+
+        <Label Text="Mi primera aplicacion de prueba con Xamarin!!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+        <Image Source="https://docs.microsoft.com/es-es/xamarin/xamarin-forms/xaml/xaml-controls-images/image.png"
+               Aspect="AspectFill"
+               HorizontalOptions="Center" />
+        
+        
     </StackLayout>
 
 </ContentPage>

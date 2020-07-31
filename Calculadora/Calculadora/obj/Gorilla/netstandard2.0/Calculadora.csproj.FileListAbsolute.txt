@@ -7,8 +7,15 @@ C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\nets
 C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\Calculadora.AssemblyInfo.cs
 C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\bin\Gorilla\netstandard2.0\ref\Calculadora.dll
 C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\bin\Gorilla\netstandard2.0\Calculadora.pdb
-C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\Calculadora.csproj.CoreCompileInputs.cache
-C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\XamlC.stamp
 C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\Calculadora.dll
 C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\ref\Calculadora.dll
 C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\Calculadora.pdb
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\bin\Gorilla\netstandard2.0\EngineIoClientDotNet.dll
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\bin\Gorilla\netstandard2.0\SocketIoClientDotNet.dll
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\bin\Gorilla\netstandard2.0\SuperSocket.ClientEngine.dll
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\bin\Gorilla\netstandard2.0\WebSocket4Net.dll
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\bin\Gorilla\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\bin\Gorilla\netstandard2.0\System.Collections.Immutable.dll
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\Calculadora.csproj.CopyComplete
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\XamlC.stamp

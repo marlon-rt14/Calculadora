@@ -59,6 +59,21 @@
           "lib/netstandard1.0/UXDivers.Effects.dll": {}
         }
       },
+      "UXDivers.GorillaPlayer.SDK/1.5.5": {
+        "type": "package",
+        "compile": {
+          "lib/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10/UXDivers.Gorilla.SDK.dll": {}
+        },
+        "runtime": {
+          "lib/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10/UXDivers.Gorilla.SDK.dll": {}
+        }
+      },
+      "UXDivers.GorillaPlayer.SDK.AutoConfig/1.5.0-Beta4": {
+        "type": "package",
+        "build": {
+          "build/UXDivers.GorillaPlayer.SDK.AutoConfig.targets": {}
+        }
+      },
       "Xamanimation/1.3.0": {
         "type": "package",
         "dependencies": {
@@ -342,6 +357,66 @@
         "lib/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10/UXDivers.Effects.dll",
         "uxdivers.effects.0.6.3.nupkg.sha512",
         "uxdivers.effects.nuspec"
+      ]
+    },
+    "UXDivers.GorillaPlayer.SDK/1.5.5": {
+      "sha512": "TUpWzZBQpWmWfdbm2cWYDho7xplD4HAfBt4avi3+dHv6C6Rm3n4cT/1Ket+2c9Yiinxg/fNwi7mcq7GPJlnbLw==",
+      "type": "package",
+      "path": "uxdivers.gorillaplayer.sdk/1.5.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10/UXDivers.Gorilla.SDK.Droid.dll",
+        "lib/MonoAndroid10/UXDivers.Gorilla.SDK.dll",
+        "lib/Xamarin.iOS10/UXDivers.Gorilla.SDK.dll",
+        "lib/Xamarin.iOS10/UXDivers.Gorilla.SDK.iOS.dll",
+        "lib/portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10/UXDivers.Gorilla.SDK.dll",
+        "uxdivers.gorillaplayer.sdk.1.5.5.nupkg.sha512",
+        "uxdivers.gorillaplayer.sdk.nuspec"
+      ]
+    },
+    "UXDivers.GorillaPlayer.SDK.AutoConfig/1.5.0-Beta4": {
+      "sha512": "ERasv6fJFsEvzIhEN+3NG7xqs3ZCCSUXYOJ3RcafUzbUyW/VZSvNygQuDUrhCEoTxZ6MmV5ePrSMRm/uEKyJqQ==",
+      "type": "package",
+      "path": "uxdivers.gorillaplayer.sdk.autoconfig/1.5.0-beta4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Microsoft.CodeAnalysis.CSharp.Workspaces.dll",
+        "build/Microsoft.CodeAnalysis.CSharp.dll",
+        "build/Microsoft.CodeAnalysis.Workspaces.Desktop.dll",
+        "build/Microsoft.CodeAnalysis.Workspaces.dll",
+        "build/Microsoft.CodeAnalysis.dll",
+        "build/Newtonsoft.Json.dll",
+        "build/System.Collections.Immutable.dll",
+        "build/System.Composition.AttributedModel.dll",
+        "build/System.Composition.Convention.dll",
+        "build/System.Composition.Hosting.dll",
+        "build/System.Composition.Runtime.dll",
+        "build/System.Composition.TypedParts.dll",
+        "build/System.Reflection.Metadata.dll",
+        "build/UXDivers.Daas.Code.dll",
+        "build/UXDivers.Daas.Commands.Gorilla.dll",
+        "build/UXDivers.Daas.Commands.dll",
+        "build/UXDivers.Daas.Engine.Code.dll",
+        "build/UXDivers.Daas.Engine.dll",
+        "build/UXDivers.Daas.dll",
+        "build/UXDivers.Gorilla.Build.dll",
+        "build/UXDivers.GorillaPlayer.SDK.AutoConfig.targets",
+        "build/runtime/EngineIoClientDotNet.dll",
+        "build/runtime/Newtonsoft.Json.dll",
+        "build/runtime/SocketIoClientDotNet.dll",
+        "build/runtime/SuperSocket.ClientEngine.dll",
+        "build/runtime/System.Collections.Immutable.dll",
+        "build/runtime/System.Net.Http.Extensions.dll",
+        "build/runtime/System.Net.Http.Primitives.dll",
+        "build/runtime/System.Net.Http.dll",
+        "build/runtime/UXDivers.Gorilla.SDK.Droid.dll",
+        "build/runtime/UXDivers.Gorilla.SDK.dll",
+        "build/runtime/UXDivers.Gorilla.SDK.iOS.dll",
+        "build/runtime/WebSocket4Net.dll",
+        "uxdivers.gorillaplayer.sdk.autoconfig.1.5.0-beta4.nupkg.sha512",
+        "uxdivers.gorillaplayer.sdk.autoconfig.nuspec"
       ]
     },
     "Xamanimation/1.3.0": {
@@ -724,6 +799,8 @@
       "Com.Airbnb.Xamarin.Forms.Lottie >= 3.1.2",
       "NETStandard.Library >= 2.0.3",
       "UXDivers.Effects >= 0.6.3",
+      "UXDivers.GorillaPlayer.SDK >= 1.5.5",
+      "UXDivers.GorillaPlayer.SDK.AutoConfig >= 1.5.0-Beta4",
       "Xamanimation >= 1.3.0",
       "Xamarin.Essentials >= 1.5.3.2",
       "Xamarin.Forms >= 4.8.0.1187-pre2"
@@ -785,6 +862,14 @@
             "target": "Package",
             "version": "[0.6.3, )"
           },
+          "UXDivers.GorillaPlayer.SDK": {
+            "target": "Package",
+            "version": "[1.5.5, )"
+          },
+          "UXDivers.GorillaPlayer.SDK.AutoConfig": {
+            "target": "Package",
+            "version": "[1.5.0-Beta4, )"
+          },
           "Xamanimation": {
             "target": "Package",
             "version": "[1.3.0, )"
@@ -811,5 +896,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'UXDivers.GorillaPlayer.SDK 1.5.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "UXDivers.GorillaPlayer.SDK",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }
