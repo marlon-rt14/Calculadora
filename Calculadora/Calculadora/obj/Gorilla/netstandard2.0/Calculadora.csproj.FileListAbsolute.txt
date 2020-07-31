@@ -1,0 +1,14 @@
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\bin\Gorilla\netstandard2.0\Calculadora.deps.json
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\bin\Gorilla\netstandard2.0\Calculadora.dll
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\Calculadora.csprojAssemblyReference.cache
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\App.xaml.g.cs
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\Calculadora.AssemblyInfo.cs
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\bin\Gorilla\netstandard2.0\ref\Calculadora.dll
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\bin\Gorilla\netstandard2.0\Calculadora.pdb
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\XamlC.stamp
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\Calculadora.dll
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\ref\Calculadora.dll
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Gorilla\netstandard2.0\Calculadora.pdb
