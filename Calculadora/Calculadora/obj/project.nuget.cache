@@ -1,30 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "w2ZOf0pHA9/oO4Ohd9O0VxIvFLR8B+yYyfdXnQjjN+6j+KOsLBYVYNtdRW+OrFDZgVABdO4AmNdNbB5A11pGBA==",
+  "dgSpecHash": "CgwcN9t9KWALH+Dv64uBYveDgir834bRwPRXmtoNnf2nSSRTMWIepL0TBmV6F64Vlyhj+VGornBN8rVlKPxqQg==",
   "success": true,
   "projectFilePath": "C:\\Users\\mjavi\\source\\repos\\Calculadora\\Calculadora\\Calculadora\\Calculadora.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mjavi\\.nuget\\packages\\com.airbnb.xamarin.forms.lottie\\3.1.2\\com.airbnb.xamarin.forms.lottie.3.1.2.nupkg.sha512",
+    "C:\\Users\\mjavi\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.0.0-beta2.20059.3\\microsoft.codeanalysis.analyzers.3.0.0-beta2.20059.3.nupkg.sha512",
+    "C:\\Users\\mjavi\\.nuget\\packages\\microsoft.codeanalysis.common\\3.5.0\\microsoft.codeanalysis.common.3.5.0.nupkg.sha512",
+    "C:\\Users\\mjavi\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.5.0\\microsoft.codeanalysis.csharp.3.5.0.nupkg.sha512",
     "C:\\Users\\mjavi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\mjavi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\mjavi\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\mjavi\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\mjavi\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\mjavi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\mjavi\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\mjavi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\mjavi\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\mjavi\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
     "C:\\Users\\mjavi\\.nuget\\packages\\uxdivers.effects\\0.6.3\\uxdivers.effects.0.6.3.nupkg.sha512",
-    "C:\\Users\\mjavi\\.nuget\\packages\\uxdivers.gorillaplayer.sdk\\1.5.5\\uxdivers.gorillaplayer.sdk.1.5.5.nupkg.sha512",
-    "C:\\Users\\mjavi\\.nuget\\packages\\uxdivers.gorillaplayer.sdk.autoconfig\\1.5.0-beta4\\uxdivers.gorillaplayer.sdk.autoconfig.1.5.0-beta4.nupkg.sha512",
     "C:\\Users\\mjavi\\.nuget\\packages\\xamanimation\\1.3.0\\xamanimation.1.3.0.nupkg.sha512",
-    "C:\\Users\\mjavi\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\mjavi\\.nuget\\packages\\xamarin.forms\\4.8.0.1187-pre2\\xamarin.forms.4.8.0.1187-pre2.nupkg.sha512"
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\mjavi\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512",
+    "C:\\Users\\mjavi\\.nuget\\packages\\xamarin.hotreload\\2.0.13\\xamarin.hotreload.2.0.13.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'UXDivers.GorillaPlayer.SDK 1.5.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
-      "libraryId": "UXDivers.GorillaPlayer.SDK",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -7,28 +7,22 @@
              x:Class="Calculadora.MainPage">
 
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label 
-            Text="MI NOMBRE ES MARLON JAVIER RUIZ TARUCHAÍN"
-            FontSize="Large"
-            FontAttributes="Bold"
-            VerticalOptions="StartAndExpand"
-            HorizontalTextAlignment="Center" />
-        <Button Text="Contar"
-                Font="Large"
-                BorderWidth="1"
-                HorizontalOptions="CenterAndExpand"
-                VerticalOptions="Start"
-                Clicked="OnButtonClicked"/>
+        <Entry Placeholder="Primer número"
+               x:Name="txtNum1"/>
+        <Entry Placeholder="Segundo número"
+               x:Name="txtNum2"/>
+        <Label Text="Seleccione una operación"/>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Button Text="+" x:Name="btnSuma" Clicked="btnSuma_Clicked"/>
+            <Button Text="-" x:Name="btnResta" Clicked="btnResta_Clicked"/>
+            <Button Text="*" x:Name="btnMultiplicacion" Clicked="btnMultiplicacion_Clicked"/>
+            <Button Text="/" x:Name="btnDivision" Clicked="btnDivision_Clicked"/>
+        </StackLayout>
+        <Label Text="La respuesta es: "
+               FontSize="Medium"
+               x:Name="lblRespuesta"/>
+            
 
-        <Label Text="Mi primera aplicacion de prueba con Xamarin!!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-        <Image Source="https://docs.microsoft.com/es-es/xamarin/xamarin-forms/xaml/xaml-controls-images/image.png"
-               Aspect="AspectFill"
-               HorizontalOptions="Center" />
-        
-        
     </StackLayout>
 
 </ContentPage>

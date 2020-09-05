@@ -46,14 +46,6 @@
               "target": "Package",
               "version": "[3.1.2, )"
             },
-            "UXDivers.Effects": {
-              "target": "Package",
-              "version": "[0.6.3, )"
-            },
-            "UXDivers.GorillaPlayer.SDK.AutoConfig": {
-              "target": "Package",
-              "version": "[1.5.0-Beta4, )"
-            },
             "Xamanimation": {
               "target": "Package",
               "version": "[1.3.0, )"
@@ -64,7 +56,11 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.8.0.1187-pre2, )"
+              "version": "[4.8.0.1269, )"
+            },
+            "Xamarin.HotReload": {
+              "target": "Package",
+              "version": "[2.0.13, )"
             }
           }
         }
@@ -122,14 +118,6 @@
               "target": "Package",
               "version": "[0.6.3, )"
             },
-            "UXDivers.GorillaPlayer.SDK": {
-              "target": "Package",
-              "version": "[1.5.5, )"
-            },
-            "UXDivers.GorillaPlayer.SDK.AutoConfig": {
-              "target": "Package",
-              "version": "[1.5.0-Beta4, )"
-            },
             "Xamanimation": {
               "target": "Package",
               "version": "[1.3.0, )"
@@ -140,7 +128,11 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.8.0.1187-pre2, )"
+              "version": "[4.8.0.1269, )"
+            },
+            "Xamarin.HotReload": {
+              "target": "Package",
+              "version": "[2.0.13, )"
             }
           },
           "imports": [
@@ -153,7 +145,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

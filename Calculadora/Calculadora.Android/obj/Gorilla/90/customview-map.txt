@@ -35,6 +35,7 @@ paths;C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora.Android\ob
 resources;C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora.Android\obj\Gorilla\90\lp\1\jl\res\values\strings.xml
 resources;C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora.Android\obj\Gorilla\90\lp\2\jl\res\values\strings.xml
 resources;C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora.Android\obj\Gorilla\90\lp\41\jl\res\values\attrs.xml
+resources;C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora.Android\obj\Gorilla\90\lp\41\jl\res\values\strings.xml
 resources;C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora.Android\obj\Gorilla\90\lp\41\jl\res\values\styles.xml
 resources;obj\Gorilla\90\res\values\colors.xml
 resources;obj\Gorilla\90\res\values\styles.xml
@@ -44,6 +45,7 @@ set;C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora.Android\obj\
 set;C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora.Android\obj\Gorilla\90\lp\41\jl\res\anim\exittoright.xml
 string;C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora.Android\obj\Gorilla\90\lp\1\jl\res\values\strings.xml
 string;C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora.Android\obj\Gorilla\90\lp\2\jl\res\values\strings.xml
+string;C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora.Android\obj\Gorilla\90\lp\41\jl\res\values\strings.xml
 style;C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora.Android\obj\Gorilla\90\lp\41\jl\res\values\styles.xml
 style;obj\Gorilla\90\res\values\styles.xml
 translate;C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora.Android\obj\Gorilla\90\lp\41\jl\res\anim\enterfromleft.xml

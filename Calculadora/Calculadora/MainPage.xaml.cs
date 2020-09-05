@@ -17,5 +17,25 @@ namespace Calculadora
         {
             InitializeComponent();
         }
+
+        private void btnSuma_Clicked(object sender, EventArgs e)
+        {
+            lblRespuesta.Text = (Int32.Parse(txtNum1.Text) + (Int32.Parse(txtNum2.Text))).ToString();
+        }
+
+        private void btnResta_Clicked(object sender, EventArgs e)
+        {
+            lblRespuesta.Text = (Int32.Parse(txtNum1.Text) - (Int32.Parse(txtNum2.Text))).ToString();
+        }
+
+        private void btnMultiplicacion_Clicked(object sender, EventArgs e)
+        {
+            lblRespuesta.Text = (Int32.Parse(txtNum1.Text) * (Int32.Parse(txtNum2.Text))).ToString();
+        }
+
+        private void btnDivision_Clicked(object sender, EventArgs e)
+        {
+            lblRespuesta.Text = (Int32.Parse(txtNum1.Text) / (Int32.Parse(txtNum2.Text))).ToString();
+        }
     }
 }

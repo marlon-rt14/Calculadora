@@ -10,24 +10,18 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
-		Gorilla|Any CPU = Gorilla|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{22B09A70-3491-46C9-8054-33C0F7DBA2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{22B09A70-3491-46C9-8054-33C0F7DBA2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22B09A70-3491-46C9-8054-33C0F7DBA2B8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{22B09A70-3491-46C9-8054-33C0F7DBA2B8}.Gorilla|Any CPU.ActiveCfg = Gorilla|Any CPU
-		{22B09A70-3491-46C9-8054-33C0F7DBA2B8}.Gorilla|Any CPU.Build.0 = Gorilla|Any CPU
-		{22B09A70-3491-46C9-8054-33C0F7DBA2B8}.Gorilla|Any CPU.Deploy.0 = Gorilla|Any CPU
 		{22B09A70-3491-46C9-8054-33C0F7DBA2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22B09A70-3491-46C9-8054-33C0F7DBA2B8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{22B09A70-3491-46C9-8054-33C0F7DBA2B8}.Release|Any CPU.Deploy.0 = Release|Any CPU
 		{A119869B-D9CC-484C-844A-2570A46FD2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A119869B-D9CC-484C-844A-2570A46FD2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A119869B-D9CC-484C-844A-2570A46FD2DB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{A119869B-D9CC-484C-844A-2570A46FD2DB}.Gorilla|Any CPU.ActiveCfg = Gorilla|Any CPU
-		{A119869B-D9CC-484C-844A-2570A46FD2DB}.Gorilla|Any CPU.Build.0 = Gorilla|Any CPU
 		{A119869B-D9CC-484C-844A-2570A46FD2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A119869B-D9CC-484C-844A-2570A46FD2DB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A119869B-D9CC-484C-844A-2570A46FD2DB}.Release|Any CPU.Deploy.0 = Release|Any CPU

@@ -10,3 +10,5 @@ C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Debug\netsta
 C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.dll
 C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\ref\Calculadora.dll
 C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.pdb
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\mjavi\source\repos\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\XamlC.stamp
